@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<img alt="react" src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=React&logoColor=white" />
+
+
 <!---
 daydreamplace/daydreamplace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
