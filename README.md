@@ -29,6 +29,8 @@
 
 ## 🖇️ Contact & Channel
 [📑 기술블로그](https://velog.io/@daydreamplace)
+ 
+ <img src="https://img.shields.io/badge/-gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" /> you8inpark@gmail.com
   <br />
 
 
