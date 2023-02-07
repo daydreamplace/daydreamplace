@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack
 <br />
-
+<img src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 
 <br />
 <br />
