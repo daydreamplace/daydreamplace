@@ -37,8 +37,8 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&langs_count=10&layout=compact&theme=dark))](https://github.com/daydreamplace/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&langs_count=10&layout=compact)](https://github.com/daydreamplace/github-readme-stats)
 
 </div>
 
