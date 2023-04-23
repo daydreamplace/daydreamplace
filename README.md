@@ -28,6 +28,7 @@
  🌱 I’m currently learning ...<br /><br />
  <img src="https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
+ <img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
 <br /><br /><br />
 
 ## 🖇️ Contact & Channel
