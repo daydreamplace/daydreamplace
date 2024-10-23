@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <br /><br />
  
- ### 🌱 I’m currently learning ...<br /><br />
+ ### 🌱 I’m currently learning ...<br />
 
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <br /><br /><br />
