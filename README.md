@@ -1,5 +1,4 @@
 <br />
-<br />
 
 ###  👋 Hi, There. I am Youbin Park a.k.a Eden.
 
@@ -32,17 +31,8 @@
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <br /><br /><br />
 
-## 🖇️ Contact & Channel
-[📑 기술블로그](https://velog.io/@daydreamplace)
- 
- <img src="https://img.shields.io/badge/-gmail-%23EA4335?style=flat&logo=gmail&logoColor=white" /> you8inpark@gmail.com
-  <br />
 
 
-<br />
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&langs_count=10&layout=compact)](https://github.com/daydreamplace/github-readme-stats)
 
 </div>
