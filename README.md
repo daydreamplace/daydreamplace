@@ -29,6 +29,7 @@
  ### 🌱 I’m currently learning ...<br />
 
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+ <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 <br /><br /><br />
 
 
