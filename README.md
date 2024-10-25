@@ -1,7 +1,6 @@
 <br />
 
-###  👋 Hi, There. I am Youbin Park a.k.a Eden.
-
+###  👋 WELCOME
 <br />
 <br />
 
