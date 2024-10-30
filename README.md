@@ -31,11 +31,9 @@
  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 
 <br /><br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eden)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true&theme=buefy&hide=stars,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
 
 
 
