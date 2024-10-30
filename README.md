@@ -29,12 +29,11 @@
 
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+
 <br /><br /><br />
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&langs_count=10&layout=compact)](https://github.com/daydreamplace/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eden&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eden)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
