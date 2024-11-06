@@ -2,6 +2,7 @@
 <div align="center">
 
  #  👋 Welcome to daydreamplace!
+#### 📂 [Eden's Portfolio](https://eden88.notion.site/Portfolio-2ca9acbca5f54322b91f1d45cc23bff5?pvs=4) 👈🏻 Dive into my projects and experiences!
 <br />
 <br />
 <br />
