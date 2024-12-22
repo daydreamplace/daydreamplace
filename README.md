@@ -1,16 +1,12 @@
 <br />
 <div align="center">
 
- #  👋 Welcome to daydreamplace!
+ #  👋🏻 Welcome to daydreamplace!
 #### 📂 [Eden's Portfolio](https://eden88.notion.site/Portfolio-2ca9acbca5f54322b91f1d45cc23bff5?pvs=4) 👈🏻 Dive into my projects and experiences!
 #### ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts) 👈🏻 Explore my thoughts, code, and daily inspirations!
 
 <br />
 <br />
-<br />
-
-
-
 
 <div>
  
@@ -26,13 +22,27 @@
 <img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /><br />
 <img src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/-react--native-%23272323?style=for-the-badge&logo=React&logoColor=61DAFB" /><br/>
-<img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<br /><br />
+<img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" /> <br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<br />
+
+### ☝️ Used Briefly in Work <br />
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br /><br /><br />
  
- ### 🐳 Dive deep into ...<br />
+ ### 🐳 Dive deep into...<br />
+
 
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+ <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"/>
+ 
+<br /><br />
 
 ## 🛠️ Tool
 
@@ -43,6 +53,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<br /><br />
 
 ## 👩🏻‍💻 OS
 
