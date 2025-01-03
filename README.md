@@ -2,6 +2,10 @@
 <div align="center">
 
  #  👋🏻 Welcome to daydreamplace!
+
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaydreamplace&count_bg=%235262E8&title_bg=%237D7D7D&icon=apple.svg&icon_color=%23E7E7E7&title=H+e+l+l+o+V+i+s+i+t+o+r+s&edge_flat=false"/></a>
+ <br/>
+
  <img src="https://github.com/user-attachments/assets/3baaeb9d-c86f-43dc-bacd-a3a6521f74c0" width=300 />
  
 #### 📂 [Eden's Portfolio](https://eden88.notion.site/Portfolio-2ca9acbca5f54322b91f1d45cc23bff5?pvs=4) 👈🏻 Dive into my projects and experiences!
