@@ -8,8 +8,8 @@
 
  <img src="https://github.com/user-attachments/assets/3baaeb9d-c86f-43dc-bacd-a3a6521f74c0" width=300 />
  
-#### 📂 [Eden's Portfolio](https://eden88.notion.site/Portfolio-2ca9acbca5f54322b91f1d45cc23bff5?pvs=4) 👈🏻 Dive into my projects and experiences!
-#### ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts) 👈🏻 Explore my thoughts, code, and daily inspirations!
+### Explore my thoughts, code, and daily inspirations!
+### ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts) 
 
 <br />
 <br />
