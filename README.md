@@ -68,7 +68,7 @@
 
 <br /><br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&layout=compact)](https://github.com/daydreamplace)
-[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true&theme=buefy&hide=contribs&count_private=true)](https://github.com/daydreamplace)
+[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true&theme=buefy&count_private=true)](https://github.com/daydreamplace)
 </div>
 
 
