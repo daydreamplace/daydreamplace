@@ -6,7 +6,14 @@
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaydreamplace&count_bg=%235262E8&title_bg=%237D7D7D&icon=apple.svg&icon_color=%23E7E7E7&title=H+e+l+l+o+V+i+s+i+t+o+r+s&edge_flat=false"/></a>
  <br/>
 
- <img src="https://github.com/user-attachments/assets/3baaeb9d-c86f-43dc-bacd-a3a6521f74c0" width=300 />
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/677148109495432891/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
  
 ### Explore my thoughts, code, and daily inspirations!
 ### ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts) 
