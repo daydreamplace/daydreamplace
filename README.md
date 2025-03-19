@@ -14,9 +14,14 @@
         alt="gitanimals"
       />
     </a>
- 
-### Explore my thoughts, code, and daily inspirations!
-### ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts) 
+ <br />
+<br />
+
+### Explore my thoughts and daily inspirations! 👉🏻 ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts)
+
+<a href="https://velog.io/@daydreamplace">
+  <img src="https://velog-readme-stats.vercel.app/api/list?name=daydreamplace" width=45% />
+</a>
 
 <br />
 <br />
