@@ -1,21 +1,17 @@
-<br />
 <div align="center">
 
- #  👋🏻 Welcome to daydreamplace!
-
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaydreamplace&count_bg=%235262E8&title_bg=%237D7D7D&icon=apple.svg&icon_color=%23E7E7E7&title=H+e+l+l+o+V+i+s+i+t+o+r+s&edge_flat=false"/></a>
- <br/>
+# 👋🏻 Welcome to daydreamplace!
 
 <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/677148109495432891/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
- <br />
-<br />
+  <img
+    src="https://render.gitanimals.org/guilds/677148109495432891/draw"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
+</a>
+
+<br /><br />
 
 ### Explore my thoughts and daily inspirations! 👉🏻 ✨ [Eden's Blog](https://velog.io/@daydreamplace/posts)
 
@@ -23,67 +19,31 @@
   <img src="https://velog-readme-stats.vercel.app/api/list?name=daydreamplace" width=45% />
 </a>
 
-<br />
-<br />
-
-<div>
- 
-
-## 💻 Tech Stack
-
-<img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white "/>
-<img src="https://img.shields.io/badge/-sass%2Fscss-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/-styled--components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /><br />
-<img src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/-react--native-%23272323?style=for-the-badge&logo=React&logoColor=61DAFB" /><br/>
-<img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" /> <br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-<br />
-
-### ☝️ Used Briefly in Work <br />
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br /><br /><br />
- 
- ### 🐳 Dive deep into...<br />
-
-
- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
- <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
- <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
- <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white"/>
- 
 <br /><br />
 
-## 🛠️ Tool
+## 💻 Skills  
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+### Languages  
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+### Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Mobile  
+![React Native](https://img.shields.io/badge/-React%20Native-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
 <br /><br />
 
-## 👩🏻‍💻 OS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&layout=compact)
+![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true&theme=buefy&count_private=true)
 
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
- 
-
-<br /><br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamplace&layout=compact)](https://github.com/daydreamplace)
-[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=daydreamplace&show_icons=true&theme=buefy&count_private=true)](https://github.com/daydreamplace)
-</div>
-
-
-
-<br />
 </div>
